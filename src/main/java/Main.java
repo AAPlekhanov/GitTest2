@@ -10,8 +10,5 @@ public class Main {
  // feature line 1
         // feature line 2
 
-
-        // master 1
-        // master 2
     }
 }
