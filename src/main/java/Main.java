@@ -13,7 +13,5 @@ public class Main {
         // master 2
 
         // line 1
-
-        // new lines 2222
     }
 }
